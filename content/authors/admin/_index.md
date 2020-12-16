@@ -21,6 +21,7 @@ interests:
 - Agroecology
 - Animal husbandry
 - Impacts of agricultural management and environment
+- Animal behaviour
 
 # Education to show in About widget
 education:

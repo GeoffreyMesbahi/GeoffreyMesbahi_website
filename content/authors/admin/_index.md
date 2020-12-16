@@ -47,6 +47,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Geoffrey_Mesbahi
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-0276-3901
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeoffreyMesbahi

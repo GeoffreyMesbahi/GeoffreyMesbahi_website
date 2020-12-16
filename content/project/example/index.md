@@ -11,6 +11,8 @@ title: Agronomic and ecological characteristics of permanent grasslands
 subtitle: A case study from the French Vosges Mountains
 tags:
   - Permanent_grasslands
+  - Prediction
+  - Outreach
 categories: []
 links: []
 image:

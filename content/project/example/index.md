@@ -9,9 +9,9 @@ external_link: https://www.researchgate.net/project/Agronomic-and-ecological-cha
 url_slides: ""
 title: Agronomic and ecological characteristics of permanent grasslands
 subtitle: A case study from the French Vosges Mountains
-tags: []
-categories:
+tags:
   - Permanent_grasslands
+categories: []
 links: []
 image:
   caption: Grand Ballon (France)

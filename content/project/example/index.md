@@ -10,6 +10,8 @@ url_slides: ""
 title: Agronomic and ecological characteristics of permanent grasslands
 subtitle: A case study from the French Vosges Mountains
 tags: []
+categories:
+  - Permanent_grasslands
 links: []
 image:
   caption: Grand Ballon (France)

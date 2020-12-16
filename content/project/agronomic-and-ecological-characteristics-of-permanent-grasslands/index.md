@@ -10,7 +10,7 @@ tags:
   - Outreach
 external_link: https://www.researchgate.net/project/Agronomic-and-ecological-characteristics-of-permanent-grasslands-A-case-study-from-the-French-Vosges-Mountains
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---

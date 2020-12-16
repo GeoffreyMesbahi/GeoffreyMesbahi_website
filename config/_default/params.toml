@@ -100,7 +100,7 @@ address = {street = "Centre de recherche INRAE Nouvelle-Aquitaine-Poitiers - Les
 coordinates = {latitude = "46.41845359184106", longitude = "0.11704908509622322"}
 
 # Directions for visitors to locate you.
-directions = "Accueil building"
+directions = "Please ask for me into "Accueil" building"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

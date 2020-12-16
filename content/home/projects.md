@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Permanent grasslands
-    tag: Permanent grasslands
+    tag: Permanent_grasslands
   - name: Agroforestry
     tag: Agroforestry
 

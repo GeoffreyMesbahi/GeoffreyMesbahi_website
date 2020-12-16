@@ -8,7 +8,7 @@ tags:
   - Permanent_grasslands
   - Prediction
   - Outreach
-external_link: " "
+external_link: https://www.researchgate.net/project/Agronomic-and-ecological-characteristics-of-permanent-grasslands-A-case-study-from-the-French-Vosges-Mountains
 image:
   filename: featured
   focal_point: Smart

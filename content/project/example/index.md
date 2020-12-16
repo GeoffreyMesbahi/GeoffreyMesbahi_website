@@ -7,7 +7,7 @@ url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: https://www.researchgate.net/project/Agronomic-and-ecological-characteristics-of-permanent-grasslands-A-case-study-from-the-French-Vosges-Mountains
 url_slides: ""
-title: Agronomic and ecological characteristics of permanent grasslands
+title: Agronomic and ecological characteristics of permanent grasslands 1
 subtitle: A case study from the French Vosges Mountains
 tags:
   - Permanent_grasslands

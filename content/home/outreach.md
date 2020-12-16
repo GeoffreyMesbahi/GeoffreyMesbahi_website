@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 120
 
 title: 'Outreach to farmers and advisors'
 subtitle:

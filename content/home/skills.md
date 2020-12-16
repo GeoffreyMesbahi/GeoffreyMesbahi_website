@@ -25,9 +25,13 @@ feature:
   icon_pack: fas
   name: QGIS
 - description:
-  icon: mountain
+  icon: leaf
   icon_pack: fas
-  name: Fieldwork
+  name: Botany
+- description:
+  icon: paw
+  icon_pack: fas
+  name: Animal behaviour
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

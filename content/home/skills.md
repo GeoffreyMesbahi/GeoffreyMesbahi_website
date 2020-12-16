@@ -32,6 +32,10 @@ feature:
   icon: paw
   icon_pack: fas
   name: Animal behaviour
+- description:
+  icon: mountain
+  icon_pack: fas
+  name: Fieldwork
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

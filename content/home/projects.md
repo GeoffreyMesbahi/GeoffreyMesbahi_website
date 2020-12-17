@@ -31,6 +31,8 @@ content:
     tag: Permanent_grasslands
   - name: Agroforestry
     tag: Agroforestry
+  - name: Primates
+    tag: Primates
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

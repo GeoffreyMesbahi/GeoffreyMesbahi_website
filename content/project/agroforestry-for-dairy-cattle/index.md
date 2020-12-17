@@ -7,7 +7,7 @@ tags:
   - Agroforestry
 external_link: " "
 image:
-  filename: 2020_10_29-40-2.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---

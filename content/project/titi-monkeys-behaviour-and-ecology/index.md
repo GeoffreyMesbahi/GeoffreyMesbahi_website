@@ -3,6 +3,8 @@ title: Titi monkeys behaviour and ecology
 date: 2020-12-17T18:57:49.959Z
 draft: false
 featured: false
+tags:
+  - Primates
 external_link: " "
 image:
   filename: ""

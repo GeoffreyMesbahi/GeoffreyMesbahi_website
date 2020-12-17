@@ -70,5 +70,3 @@ highlight_name: false
 ---
 
 Geoffrey Mesbahi is a postdoc at INRAE, FERLUS Experimental Unit. His researches focus of the prediction of agronomic and ecological characteristics of various fodder, especially permanent grasslands and pollard trees. Geoffrey's work is transdisciplinary: agricultural production, biodiversity conservation, animal behaviour, economy and outreach.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -26,7 +26,6 @@ tags:
   - Permanent_grasslands
   - Pollinators
   - Prediction
-  - Carbon
   - Biodiversity
   - Classifications
   

@@ -25,5 +25,7 @@ projects:
 tags:
   - Permanent_grasslands
   - Outreach
+  - Economy
+  - Yield
 
 ---

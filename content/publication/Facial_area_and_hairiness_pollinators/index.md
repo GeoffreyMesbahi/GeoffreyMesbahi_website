@@ -22,4 +22,8 @@ publication_types: ["2"]
 projects:
 - agronomic-and-ecological-characteristics-of-permanent-grasslands
 
+tags:
+  - Permanent_grasslands
+  - Pollinators
+
 ---

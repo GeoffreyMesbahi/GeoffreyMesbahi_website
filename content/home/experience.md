@@ -39,7 +39,7 @@ experience:
     description: Prediction of permanent grasslands’ agroecological characteristics and compromises, focus on the Vosges Mountains
 
   - title: Fieldwork assistant
-    company: University of Lorraine LAE - PNR Vosges du Nord
+    company: University of Neuchatel
     company_url: 'https://lae.univ-lorraine.fr/en'
     location: France
     date_start: '2015-01-01'

@@ -28,7 +28,7 @@ experience:
     location: France
     date_start: '2020-10-01'
     date_end: ''
-    description: Identification of temperate fodder trees for dairy cattle production
+    description: Agronomic value of temperate fodder trees for dairy cattle production
 
   - title: Doctorate
     company: University of Lorraine LAE - PNR Vosges du Nord

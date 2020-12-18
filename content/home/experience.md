@@ -38,7 +38,7 @@ experience:
     date_end: '2020-08-31'
     description: Prediction of permanent grasslands’ agroecological characteristics and compromises, focus on the Vosges Mountains
 
-  - title: Doctorate
+  - title: Fieldwork assistant
     company: University of Lorraine LAE - PNR Vosges du Nord
     company_url: 'https://lae.univ-lorraine.fr/en'
     location: France

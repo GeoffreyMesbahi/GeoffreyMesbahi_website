@@ -21,4 +21,12 @@ publication_types: ["2"]
 #   Otherwise, set `projects: []`.
 projects:
 - agronomic-and-ecological-characteristics-of-permanent-grasslands
+
+tags:
+  - Permanent_grasslands
+  - Pollinators
+  - Prediction
+  - Carbon
+  - Biodiversity
+  
 ---

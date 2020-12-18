@@ -1,7 +1,7 @@
 ---
 title: "Les typologies agronomiques : des outils efficaces pour évaluer rendements et performances des prairies permanentes"
-date: 2019-03
-publishDate: 2019-03
+date: 2019-03-31
+publishDate: 2020-12-18
 authors: ["Geoffrey Mesbahi", "Cécile Bayeur", "Sylvain Plantureux"]
 abstract: "Dans cet article, nous avons cherché à prédire simplement les rendements des prairies, les coûts de production et la performance économique. Pour cela, nous avons comparé le pouvoir prédictif d’une typologie agronomique à celui d’une simple classification basée sur l’utilisation de la prairie."
 featured: false

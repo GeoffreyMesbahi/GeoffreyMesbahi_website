@@ -38,7 +38,7 @@ experience:
     date_end: '2020-08-31'
     description: Prediction of permanent grasslands’ agroecological characteristics and compromises, focus on the Vosges Mountains
     
-  - title: Field assistant
+ # - title: Field assistant
     company: University of Neuchâtel
     company_url: 'https://www.unine.ch/compcog/en/home.html'
     location: Switzerland & Brazil

@@ -23,7 +23,7 @@ projects:
 - agronomic-and-ecological-characteristics-of-permanent-grasslands
 
 tags:
-- Permanent_grasslands
-- Prediction
+  - Permanent_grasslands
+  - Prediction
 
 ---

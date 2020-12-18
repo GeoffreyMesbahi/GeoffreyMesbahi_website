@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: Identification of temperate fodder trees for dairy cattle production
         
-  - title: Doctorate
+ # - title: Doctorate
     company: University of Lorraine LAE - PNR Vosges du Nord
     company_url: 'https://lae.univ-lorraine.fr/en'
     location: France

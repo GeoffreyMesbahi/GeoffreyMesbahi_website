@@ -29,14 +29,5 @@ experience:
     date_start: '2020-10-01'
     date_end: ''
     description: Identification of temperate fodder trees for dairy cattle production
-    
-- title: Doctorate
-    company: University of Lorraine LAE - PNR Vosges du Nord
-    company_url: 'https://lae.univ-lorraine.fr/en'
-    location: France
-    date_start: '2017-01-01'
-    date_end: '2020-08-31'
-    description: Prediction of permanent grasslands’ agroecological characteristics and compromises, focus on the Vosges Mountains
-    
 
 ---

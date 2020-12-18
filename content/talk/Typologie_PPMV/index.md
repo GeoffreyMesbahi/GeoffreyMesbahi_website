@@ -19,5 +19,15 @@ publication_types: ["5"]
 
 featured: false
 
+tags : 
+  - Classifications
+  - Outreach
+  - Biodiversity
+  - Carbon
+  - Pollinators
+  - Nutritive_value
+  - Yield
+  - Antioxydants
+
 ---
 

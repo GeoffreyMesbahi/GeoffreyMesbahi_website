@@ -22,4 +22,8 @@ publication_types: ["1"]
 projects:
 - agronomic-and-ecological-characteristics-of-permanent-grasslands
 
+tags:
+  - Permanent_grasslands
+  - Outreach
+
 ---

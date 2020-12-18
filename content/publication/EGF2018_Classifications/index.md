@@ -26,5 +26,7 @@ tags:
   - Permanent_grasslands
   - Prediction
   - Classifications
+  - Yield
+  - Biodiversity
 
 ---

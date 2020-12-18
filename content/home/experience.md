@@ -36,7 +36,7 @@ experience:
         * Deploying
         
   - title: Doctorate
-    company: University of Lorraine LAE + PNR Vosges du Nord
+    company: University of Lorraine LAE & PNR Vosges du Nord
     company_url: 'https://www.inrae.fr/en'
     location: France
     date_start: '2017-01-01'

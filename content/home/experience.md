@@ -28,12 +28,7 @@ experience:
     location: France
     date_start: '2020-01-10'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Evaluation of temperate fodder trees for dairy cattle production
         
   - title: Doctorate
     company: Université de Lorraine LAE - PNR Vosges du Nord 

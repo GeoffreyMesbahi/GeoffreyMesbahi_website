@@ -42,8 +42,8 @@ experience:
     company: University of Neuchâtel
     company_url: 'https://www.unine.ch/compcog/en/home.html'
     location: Switzerland & Brazil
-    date_start: '2015-01-01'
-    date_end: '2016-08-31'
+    date_start: '2015-04-01'
+    date_end: '2016-09-31'
     description: Prediction of permanent grasslands’ agroecological characteristics and compromises, focus on the Vosges Mountains
     
     

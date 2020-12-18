@@ -36,6 +36,6 @@ experience:
     location: France
     date_start: '2017-01-01'
     date_end: '2020-08-31'
-    description: Blablalbla
+    description: Prediction of permanent grasslands’ agroecological characteristics and compromises, focus on the Vosges Mountains
     
 ---

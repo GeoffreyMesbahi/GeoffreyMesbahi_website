@@ -22,4 +22,13 @@ publication_types: ["7"]
 projects:
 - agronomic-and-ecological-characteristics-of-permanent-grasslands
 
+tags : 
+  - Permanent-grasslands
+  - Biodiversity
+  - Carbon
+  - Classifications
+  - Outreach
+  - Pollinators
+  - Prediction
+  
 ---

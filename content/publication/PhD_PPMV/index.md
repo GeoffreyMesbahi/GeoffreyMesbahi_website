@@ -23,12 +23,15 @@ projects:
 - agronomic-and-ecological-characteristics-of-permanent-grasslands
 
 tags : 
-  - Permanent-grasslands
+  - Permanent_grasslands
   - Biodiversity
   - Carbon
   - Classifications
   - Outreach
   - Pollinators
   - Prediction
+  - Antioxydants
+  - Nutritive_value
+  - Yield
   
 ---

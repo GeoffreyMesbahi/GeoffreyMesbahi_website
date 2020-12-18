@@ -25,5 +25,6 @@ projects:
 tags:
   - Permanent_grasslands
   - Prediction
+  - Classifications
 
 ---

@@ -41,8 +41,8 @@ experience:
   - title: Field assistant
     company: University of Neuchâtel
     company_url: 'https://www.unine.ch/compcog/en/home.html'
-    location: Switzerland
+    location: Switzerland - Brazil
     date_start: '2015-04-01'
     date_end: '2016-09-31'
-    description: Study of wild titi monkeys vocal communication
+    description: Study of wild titi monkeys *Callicebus nigrifrons* vocal communication
 ---

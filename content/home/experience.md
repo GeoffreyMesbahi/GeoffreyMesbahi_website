@@ -44,5 +44,5 @@ experience:
     location: Switzerland & Brazil
     date_start: '2015-04-01'
     date_end: '2016-09-31'
-    description: Study of wild titi monkeys *Callicebus nigrifrons* vocal communication
+    description: Study of wild titi monkeys vocal communication
 ---

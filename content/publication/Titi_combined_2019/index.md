@@ -22,4 +22,9 @@ publication_types: ["2"]
 projects:
 - titi-monkeys-behaviour-and-ecology
 
+tags : 
+  - Primates
+  - Animal_behaviour
+  - Vocal_communication
+
 ---

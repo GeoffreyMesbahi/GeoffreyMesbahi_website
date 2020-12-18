@@ -13,7 +13,7 @@ external_link: https://www.researchgate.net/project/Agronomic-and-ecological-cha
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: false 
 ---
 This project aims to understand biotic and abiotic drivers of permanent grasslands characteristics. 
 

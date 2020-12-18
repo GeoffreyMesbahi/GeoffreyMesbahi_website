@@ -29,6 +29,13 @@ experience:
     date_start: '2020-10-01'
     date_end: ''
     description: Identification of temperate fodder trees for dairy cattle production
-        
+
+  - title: Field assistant
+    company: University of Neuchâtel
+    company_url: 'https://www.unine.ch/compcog/en/home.html'
+    location: Switzerland & Brazil
+    date_start: '2015-04-01'
+    date_end: '2016-09-31'
+    description: Study of wild titi monkeys vocal communication
 
 ---

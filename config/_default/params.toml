@@ -18,7 +18,7 @@ theme = "minimal"
 # Enable users to switch between day and night mode?
 day_night = true
 
-light = false # test to have dark mode by default
+dark = true # test to have dark mode by default
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts

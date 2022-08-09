@@ -26,6 +26,6 @@ tags:
   - Permanent_grasslands
   - Yield
   - Nutritive_value
-  - Biodiversity
+  - Economy
 
 ---

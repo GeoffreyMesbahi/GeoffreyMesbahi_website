@@ -22,12 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Researcher
+    company: FiBL
+    company_url: 'https://www.fibl.org/en/'
+    location: Switzerland
+    date_start: '2022-10-01'
+    date_end: ''
+    description: Grasslands management and ruminants nutrition
+
   - title: Postdoc
     company: INRAE
     company_url: 'https://www.inrae.fr/en'
     location: France
     date_start: '2020-10-01'
-    date_end: ''
+    date_end: '2022-09-30'
     description: Agronomic value of temperate fodder trees for dairy cattle production
 
   - title: Doctorate

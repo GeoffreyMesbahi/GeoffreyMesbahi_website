@@ -28,7 +28,7 @@ tags:
   - Nutritive_value
   - Economy
   - Carbon
-  - Antioxydants
+  - Antioxidants
   - Biodiversity
   - Health
   - Milk_production

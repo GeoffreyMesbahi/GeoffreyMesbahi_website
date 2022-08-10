@@ -30,7 +30,7 @@ tags :
   - Outreach
   - Pollinators
   - Prediction
-  - Antioxydants
+  - Antioxidants
   - Nutritive_value
   - Yield
   - Economy

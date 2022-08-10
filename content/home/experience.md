@@ -39,7 +39,7 @@ experience:
     date_end: '2022-09-30'
     description: Agronomic value of temperate fodder trees for dairy cattle production
 
-  - title: Doctorate
+  - title: PhD student
     company: University of Lorraine LAE - PNR Vosges du Nord
     company_url: 'https://lae.univ-lorraine.fr/en'
     location: France

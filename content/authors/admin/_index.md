@@ -69,4 +69,4 @@ email: ""
 highlight_name: false
 ---
 
-Geoffrey Mesbahi is a researcher at FiBL, in Switzerland. His researches focus of the prediction of agronomic and ecological characteristics of various fodder, especially grasslands and trees. Geoffrey's work is transdisciplinary: agricultural production, biodiversity conservation, animal behaviour, economy and outreach.
+Geoffrey Mesbahi is a researcher at FiBL, in Switzerland. His researches focus of the prediction of agronomic and ecological characteristics of various fodder, especially grasslands and trees. Geoffrey's work is transdisciplinary: agricultural production, biodiversity conservation, animal behaviour, economy and outreach. 

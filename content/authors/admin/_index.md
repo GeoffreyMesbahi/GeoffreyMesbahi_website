@@ -10,11 +10,11 @@ role: Postdoc in agroforestry for dairy cattle
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: INRAE - French National Research Institute for Agriculture Food and Environment
-  url: https://www.inrae.fr/en
+- name: FiBL - Research Institute of Organic Agriculture
+  url: https://www.fibl.org/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research mainly focus on prediction of agronomic and ecological characteristic of fodders
+bio: My research mainly focus on the management of grasslands and the ruminants nutrition
 
 # Interests to show in About widget
 interests:
@@ -54,13 +54,13 @@ social:
   icon_pack: fab
   link: https://twitter.com/GeoffreyMesbahi
 
-######### A FAIRE ######################################################
+######### TEST EN COURS ######################################################
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,4 +69,4 @@ email: ""
 highlight_name: false
 ---
 
-Geoffrey Mesbahi is a postdoc at INRAE, FERLUS Experimental Unit. His researches focus of the prediction of agronomic and ecological characteristics of various fodder, especially permanent grasslands and pollard trees. Geoffrey's work is transdisciplinary: agricultural production, biodiversity conservation, animal behaviour, economy and outreach.
+Geoffrey Mesbahi is a researcher at FiBL, in Switzerland. His researches focus of the prediction of agronomic and ecological characteristics of various fodder, especially grasslands and trees. Geoffrey's work is transdisciplinary: agricultural production, biodiversity conservation, animal behaviour, economy and outreach.

@@ -6,7 +6,7 @@ title: Geoffrey Mesbahi
 superuser: true
 
 # Role/position/tagline
-role: Postdoc in agroforestry for dairy cattle
+role: Grassland management and ruminant nutrition
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.fibl.org/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research mainly focus on the management of grasslands and the ruminants nutrition
+# bio: My research mainly focus on the management of grasslands and the ruminants nutrition
 
 # Interests to show in About widget
 interests:

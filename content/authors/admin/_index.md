@@ -14,7 +14,7 @@ organizations:
   url: https://www.fibl.org/en
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research mainly focus on the management of grasslands and the ruminants nutrition
+bio: My research mainly focus on the management of grasslands and the ruminants nutrition
 
 # Interests to show in About widget
 interests:
@@ -58,9 +58,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

@@ -4,13 +4,10 @@ date: 2020-12-17T18:57:49.959Z
 draft: false
 featured: false
 tags:
-  - Animal_behaviour
-  - Biodiversity
-  - Nutritive_value
-  - Yield
+  - Weidelabor
 external_link: " "
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---

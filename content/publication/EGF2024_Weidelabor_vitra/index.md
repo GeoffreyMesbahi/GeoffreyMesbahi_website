@@ -23,7 +23,7 @@ projects:
 - weidelabor
 
 tags:
-  - Nutritive-value
+  - Nutritive_value
   - Biodiversity
   - Yield
 

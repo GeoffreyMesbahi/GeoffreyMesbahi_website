@@ -4,7 +4,9 @@ date: 2022-09-01T00:00:00.959Z
 draft: false
 featured: false
 tags:
-  - Weidelabor
+  - Nutrition
+  - Animal_behaviour
+  - Biodiversity
 external_link: "https://re-livestock.eu/"
 image:
   filename: featured.jpg

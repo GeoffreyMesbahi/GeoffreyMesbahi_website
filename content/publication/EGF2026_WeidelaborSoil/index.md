@@ -2,7 +2,7 @@
 title: "Including forbs in multi-species leys did not affect soil organic carbon and nitrogen stocks"
 date: 2026-04-12
 publishDate: 2026-04-12
-authors: [Maike Krauss", "Tonn Bettina", "Marie T. Dittmann", "Geoffrey Mesbahi", "Bernhard Stehle", "Amarante Vitra", "Florian Leiber"]
+authors: ["Maike Krauss", "Tonn Bettina", "Marie T. Dittmann", "Geoffrey Mesbahi", "Bernhard Stehle", "Amarante Vitra", "Florian Leiber"]
 abstract: "Inclusion of forbs into grassland mixtures is expected to have multiple benefits in animal nutrition,
 especially if those forbs are rich in secondary plant metabolites. Increased functional group diversity
 and the presence of deep-rooting forb species, in particular, may also increase soil carbon sequestration

@@ -21,7 +21,7 @@ publication_types: ["2"]
 #   Otherwise, set `projects: []`.
 projects:[]
 
-tags : 
+tags: 
   - Animal_behaviour
   - Health
   - Nutritive_value 

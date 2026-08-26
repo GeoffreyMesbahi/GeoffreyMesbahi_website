@@ -21,8 +21,7 @@ publication_types: ["2"]
 #   Otherwise, set `projects: []`.
 projects:[]
 
-tags: 
-  - Open_science
- 
+tags:
+  - Open_science 
 
 ---

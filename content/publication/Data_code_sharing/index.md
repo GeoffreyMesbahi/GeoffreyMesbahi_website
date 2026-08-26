@@ -22,6 +22,6 @@ publication_types: ["2"]
 projects:[]
 
 tags:
-  - Open_science 
+  - Open_science
 
 ---
